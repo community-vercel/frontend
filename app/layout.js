@@ -7,6 +7,7 @@ import { useState } from 'react';
 export default function RootLayout({ children }) {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
+  
   return (
     <html lang="en">
       <head>
