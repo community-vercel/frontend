@@ -11,10 +11,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <title>EOS Issue Tracking & Task Management</title>
- <link
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
-          rel="stylesheet"
-        />
+
       </head>
       <body className="font-inter antialiased bg-gradient-to-br from-gray-50 via-blue-50 to-indigo-200 min-h-screen">
         <div className="flex min-h-screen">
